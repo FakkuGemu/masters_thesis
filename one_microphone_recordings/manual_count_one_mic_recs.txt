@@ -1,0 +1,10 @@
+name_of_file	inhale_count	exhale_count
+main_fast_breathing1	8	9
+main_fast_breathing2	7	7
+main_fast_breathing3	4	5
+main_fast_breathing4	5	5
+main_normal_breathing1	2	4
+main_normal_breathing2	0	4
+main_normal_breathing3	0	3
+main_stopping_breathing1	0	2
+main_stopping_breathing3	0	4

@@ -1,0 +1,5 @@
+Most usages in best results:
+Window Size: [('300', 4)]
+Sigma: [('3.0', 1), ('3.5', 1), ('4.0', 1), ('4.5', 1)]
+Zero Threshold: [('4', 4)]
+Breath Threshold Factor: [('1.3', 2), ('1.4000000000000001', 2)]
